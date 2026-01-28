@@ -45,7 +45,7 @@ This bridge allows Agentic AI frameworks (like OpenWebUI or custom LangGraph set
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/wazuh-mcp-soc-automation.git
+   git clone https://github.com/manjeetmk12/wazuh-mcp-soc-automation.git
    cd wazuh-mcp-bridge
    ```
 
